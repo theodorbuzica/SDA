@@ -1,0 +1,11 @@
+---
+title: "seminar2"
+format: html
+editor: visual
+---
+
+
+
+```{r}
+mtcars |> head()
+```
